@@ -5,7 +5,7 @@ Add ip address to INPUT rule of iptables
 ## Commands
 
 ### Ban ip
-$ ban [ip] 
+$ banip [ip] 
 
 ### Unban ip
-$ ban -r [ip]
+$ banip -r [ip]
